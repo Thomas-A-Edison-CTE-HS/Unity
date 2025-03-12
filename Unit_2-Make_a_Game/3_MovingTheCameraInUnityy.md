@@ -1,3 +1,6 @@
+Here’s a streamlined version of the tutorial:  
+
+---
 
 # **Moving the Camera in Unity**  
 
