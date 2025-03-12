@@ -1,5 +1,5 @@
 **Unity Tutorial: Building the Game**  
-**Beginner Level | +20 XP | 10 Mins**  
+  
 
 ---
 
