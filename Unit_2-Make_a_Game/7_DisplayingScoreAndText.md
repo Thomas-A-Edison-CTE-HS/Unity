@@ -6,7 +6,7 @@ In this tutorial, you will:
 - Create and configure UI Text elements to display:
   - The count value
   - A game end message
-
+ 
 ---
 ## Step 1: Store the Value of Collected PickUps
 
